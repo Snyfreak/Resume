@@ -15,7 +15,7 @@ export const FrontPage = () => {
             <p>h1 i am a free lancer</p>
             <h1> react developer</h1>
             <Link to="/Experience"  
-            className="btn">Projects</Link>
+            className="btn">Experience</Link>
 
 
              <Link to="/Contact"  

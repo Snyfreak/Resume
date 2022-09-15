@@ -11,7 +11,7 @@ const[click, setClick] =useState(false);
 
  const[color,setColor]=useState(false);
  const changeColor = ()=> {
-    if(window.scrollY >= 1 )
+    if(window.scrollY >= 100 )
     setColor(true);
     else{
         setColor(false);
